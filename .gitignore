@@ -1,5 +1,4 @@
 *.iml
-.gradle
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -16,12 +15,6 @@
 .idea/gradle.xml
 .idea/misc.xml
 .idea/runConfigurations.xml
-app/.gitignore
-app/build.gradle
-app/libs/
-app/proguard-rules.pro
-app/src/
-build.gradle
 gradle.properties
 gradle/
 gradlew
